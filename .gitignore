@@ -1,0 +1,35 @@
+# Compiled executables
+*.exe
+*.out
+a.out
+*.o
+*.obj
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build directories
+build/
+bin/
+obj/
+
+# Output files (keep source data files like students.txt)
+# But ignore general output
+output/
+*.log
